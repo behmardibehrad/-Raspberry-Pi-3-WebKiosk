@@ -16,3 +16,10 @@
 ###
 
 #### 4. Start the installation!
+
+self note:
+#!bin/bash
+sleep 15
+sudo /etc/init.d/nscd restart
+chromium-browser --start-maximized http://timesheet.dr-sauer.com/ots
+exit 0
