@@ -31,4 +31,70 @@
 		- sudo apt-get upgrade
 		- sudo apt-get dist-upgrade
 		- sudo apt-get clean
-	- 
+	- Chaging the default local settings:
+		- sudo raspi-config (From the config tool menu select option #4).
+		- select option 1 (change local).
+		- change the default (en_GB.UTF-8 UTF8) to (en.US.UTF-8 UTF8) and select ok.
+		- pop up message for system environment select (en.US.UTF-8 UTF8).
+		- on main menu select finish.
+		- sudo reboot
+	- Configuring timezone:
+		- sudo raspi-config (From the config tool menu select option #4).
+		- select option 2 (change Timezone).
+		- select your timezone.
+		- select ok, and finish on main menu.
+###
+
+#### 7. Installing XFCE on Raspbian:
+	- Installing Xorg Display Server:
+		- sudo apt-get install --no-install-recommends xserver-xorg
+		- sudo apt-get install --no-install-recommends xinit
+		- xinit is needed to launch xorg using scripts or terminal.
+	- Installing XFCE Gui:
+		- sudo apt-get install xfce4
+		- sudo apt-get install xfce4-terminal
+	- Start the XFCE:
+		- startx
+###
+
+#### 8. Everytime pi boots, it automatically uses terminal, for using GUI:
+	- Installing LightDM login manager:
+		- sudo apt-get install lightdm
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
