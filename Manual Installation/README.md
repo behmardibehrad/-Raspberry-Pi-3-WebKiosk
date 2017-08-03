@@ -1,7 +1,7 @@
 ## Installing Ubuntu MATE 16.04.2 LTS on Raspberry-Pi-3 (Manually)
 
 #### 1. Download Ubuntu MATE 16.04.2 LTS:
-	- https://ubuntu-mate.org/download/#zesty
+	- [https://ubuntu-mate.org/download/#zesty](https://ubuntu-mate.org/download/#zesty)
 ###
 
 #### 2. Create a bootable microSD:

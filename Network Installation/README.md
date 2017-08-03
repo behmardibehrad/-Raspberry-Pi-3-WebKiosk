@@ -1,1 +1,7 @@
-## Installing Ubuntu MATE 16.04.2 LTS on Raspberry-Pi-3 (Image Server)
+## Installing Raspbian Lite and XFCE on Raspberry-Pi-3 
+
+#### 1. Download Raspbian Lite:
+	- [https://www.raspberrypi.org/downloads/raspbian/](https://www.raspberrypi.org/downloads/raspbian/)
+###
+
+####
