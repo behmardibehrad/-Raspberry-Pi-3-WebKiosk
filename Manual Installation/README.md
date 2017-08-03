@@ -10,6 +10,9 @@
 	-
 	- On linux machine open the terminal and run this command:
 	- dd bs=1M if=/path/to/ubuntu-mate/image of=/path/to/microSD.
+	-
+	- Etcher is also an excellent tool!
+	- Download Etcher from https://etcher.io/
 ###
 
 #### 3. Insert the microSD in Raspberry-Pi.
